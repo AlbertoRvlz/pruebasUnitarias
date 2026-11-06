@@ -1,0 +1,8 @@
+
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "terminal.integrated.env.osx": {
+        "JAVA_HOME": "/opt/homebrew/opt/openjdk@25/libexec/openjdk.jdk/Contents/Home",
+        "PATH": "/opt/homebrew/opt/openjdk@25/bin:${env:PATH}"
+    }
+}
